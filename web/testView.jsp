@@ -28,6 +28,7 @@
                     + "useJDBCCompliantTimezoneShift=true&" + "useLegacyDatetimeCode=false&" + "serverTimezone=UTC";
             String dbUser = "root";
             String dbPass = "qkrcksgud1574";*/
+            //git test!
             String query = "select * from MEMBER order by MEMBERID";
 
             conn = ConnectionProvider.getConnection();
